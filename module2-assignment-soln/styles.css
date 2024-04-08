@@ -1,8 +1,6 @@
-
 * {
   box-sizing: border-box;
 }
-
 @media (min-width: 992px) {
   .col-lg-4{
     float: left;
@@ -12,7 +10,6 @@
     width: 30%;
   }
 }
-
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
@@ -25,7 +22,6 @@
     width: 92.5%;
   }
 }
-
 h1{
   text-align: center;
   font-size: 40px;
@@ -36,14 +32,12 @@ div {
   margin: 10px;
   margin-bottom: 20px;
 }
-
 p {
   clear: right;
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 10px;
 }
-
 section{
   float: right;
   margin: 10;
